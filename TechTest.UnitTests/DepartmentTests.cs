@@ -8,7 +8,6 @@
         [TestInitialize]
         public void Initialise()
         {
-
             var person1 = new Person("Carter", "Amy", Person.PersonTitle.Miss);
             var person2 = new Person("Lewis", "Mark", Person.PersonTitle.Mr);
             var person3 = new Person("Rivera", "Emma", Person.PersonTitle.Mrs);
