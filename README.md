@@ -1,1 +1,1 @@
-.NET 9 Console Application with associate unit test project
+.NET 9 Console Application with associated unit test project
